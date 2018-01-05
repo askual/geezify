@@ -1,0 +1,25 @@
+{
+  "name": "geezify",
+  "version": "1.0.0",
+  "description": "an Ethiopian calendar and geez number converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askual/geezify.git"
+  },
+  "keywords": [
+    "Ethiopia",
+    "Calendar",
+    "Geez",
+    "Number-system"
+  ],
+  "author": "kibdemta@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/askual/geezify/issues"
+  },
+  "homepage": "https://github.com/askual/geezify#readme"
+}
